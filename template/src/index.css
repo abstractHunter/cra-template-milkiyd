@@ -1,0 +1,24 @@
+:root {
+    --font-base: 'Open Sans', sans-serif;
+
+    --color-black: #1C1C1C;
+    --color-white: #d4d4d4;
+	--color-red: #dd2020;
+    --color-dark-grey: #333;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+a {
+    color: unset;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
