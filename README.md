@@ -1,7 +1,7 @@
 # cra-template-milkiyd
 
 
-## The base template for React apps built by Milkiyd.
+### The base template for React apps built by Milkiyd.
 
 
 <br/>
@@ -19,15 +19,7 @@ It inludes the following:
 <br/>
 
 ***
-## Installation
+### Installation
 `npx create-react-app my-awesome-app --template milkiyd`
 
 where ***my-awesome-app*** is the name of your project.
-
-
-<style>
-h1 { color: #f56 }
-li { color: #fd6 }
-</style>
-
-
